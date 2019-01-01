@@ -1,2 +1,3 @@
 # hello-world
-My playground where I can learn about programming
+about_me = ("My playground where I can learn about programming.")
+print (about_me)
